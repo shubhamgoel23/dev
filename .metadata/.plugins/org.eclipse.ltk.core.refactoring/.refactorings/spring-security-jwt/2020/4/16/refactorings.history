@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;io.github.springsecurityjwt.models&apos; to &apos;spring-security-jwt/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;spring-security-jwt&apos;&#x0D;&#x0A;- Destination element: &apos;spring-security-jwt/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;spring-security-jwt/src/main/java/io.github.springsecurityjwt.models&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/resources=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;io.github.springsecurityjwt.models" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1586696670993" version="1.0"/>
+</session>

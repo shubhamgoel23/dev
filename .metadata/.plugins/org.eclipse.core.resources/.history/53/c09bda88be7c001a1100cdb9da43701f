@@ -1,0 +1,8 @@
+package io.github.springsecurityjwt.models;
+
+public class AuthenticationResponse {
+
+	private final String jwt;
+	
+	
+}

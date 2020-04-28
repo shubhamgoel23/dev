@@ -1,0 +1,7 @@
+package io.github.security;
+/*
+ * in case of spring jpa security
+ */
+public class MyUserDetailsService {
+
+}

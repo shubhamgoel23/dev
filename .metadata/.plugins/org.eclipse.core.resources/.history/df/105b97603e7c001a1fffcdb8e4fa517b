@@ -1,0 +1,7 @@
+INSERT into users (username, password, enabled) values ('foo','foo',true);
+INSERT into users (username, password, enabled) values ('blah','blah',true);
+INSERT into users (username, password, enabled) values ('demo','demo',false);
+
+INSERT into authorities (username, authority) values ('foo','ROLE_USER');
+INSERT into authorities (username, authority) values ('blah','ROLE_ADMIN');
+INSERT into authorities (username, authority) values ('demo','ROLE_ADMIN');

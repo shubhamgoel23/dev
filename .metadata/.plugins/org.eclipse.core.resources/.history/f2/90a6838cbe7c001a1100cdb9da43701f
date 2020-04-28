@@ -1,0 +1,10 @@
+package io.github.springsecurityjwt.models;
+
+public class AuthenticationRequest {
+	
+	private String username;
+	private String password;
+	
+	
+
+}
